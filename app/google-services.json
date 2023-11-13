@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942376025434",
+    "project_id": "patient-monitoring-7b9c5",
+    "storage_bucket": "patient-monitoring-7b9c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942376025434:android:7ef4d21ee1629a706fc763",
+        "android_client_info": {
+          "package_name": "com.example.patientmonitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVVZnhK-NFslOz3uGPImn7gDxqbtt9Ccs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
